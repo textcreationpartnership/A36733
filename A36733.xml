@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in the Savoy, July 11, 1675 by Mr. de Luzancy licentiat in divinity, on the day of his abjuration.</title>
+            <author>De Luzancy, H. C. (Hippolyte du Chastelet), d. 1713.</author>
+         </titleStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36733</idno><idno type="EEBO-CITATION">11753213</idno>
+  <idno type="VID">48624</idno>
+  <idno type="EEBO-PROQUEST">2240898064</idno>
+  
+            <idno type="STC">Wing D2422</idno>
+            <idno type="STC">ESTC R30986</idno>
+            <idno type="OCLC">11753213</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48624)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1483:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in the Savoy, July 11, 1675 by Mr. de Luzancy licentiat in divinity, on the day of his abjuration.</title>
+                  <author>De Luzancy, H. C. (Hippolyte du Chastelet), d. 1713.</author>
+               </titleStmt>
+               <extent>[6], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Godbid, and are to be sold by Moses Pitt ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of author's sermon from the French.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Apologetic works --  Protestant authors.</term>
+               <term type="corporate_name">Catholic Church --  Sermons.</term>
+               <term type="topical_term">Sermons, French --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48624:1"/>
+            <pb facs="tcp:48624:1"/>
+            <p>A SERMON Preached in the SAVOY, <hi>July</hi> 11. 1675.</p>
+            <p>By Mr. <hi>DE LƲZANCY,</hi> LICENTIAT IN DIVINITY, On the Day of his ABJURATION.</p>
+            <p>ENGLISH'D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Godbid,</hi> and are to be Sold by <hi>Moses Pitt,</hi> at the <hi>Angel</hi> over against the Little North-door of St. <hi>Paul</hi>'s Church. 1675.</p>
+            <p>
+               <hi>Where you may have the same Sermon in</hi> French, <hi>as it was Preached.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:48624:2"/>
+            <pb facs="tcp:48624:2"/>
+            <head>To the Right Reverend AND Honourable Father in God, HENRY, Lord Bishop of OXFORD, Dean of His Majesties Chappel.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <hi>A</hi> Person of the highest Rank and Honour, to whom I cannot deny any thing, having obliged me to publish the Discourse I delivered the day of my Abjuration. I thought my self bound in duty to address it to a Bishop; these being the fittest Judges of such things, whom God has placed in his Church, instead of the Apostles, to hinder Her departing from the conduct of His Rules and Spirit.</p>
+            <p>I had no need of long considering, my Lord,
+<pb facs="tcp:48624:3"/>to make choice of you, among so many Bishops, full of Zeal and Learning God has blessed <hi>England</hi> with. He has indued you with all the parts of an excellent Bishop, and your Honour is no less to be commended for the holiness of your Life, than for the vastness of your Knowledge.</p>
+            <p>I shall not speak, my Lord, of the greatness of your Birth: It is known by all the World, and is the least of the Blessings God has favoured you with.</p>
+            <p>The Glory of a Father kill'd in the Ser<g ref="char:EOLhyphen"/>vice of a King, who can never be remembred by his Subjects without admiration and grief; and the deserts of a Brother highly placed in the World, are not the things you put the greatest value upon. You are more concerned for the interests of the Church, and you do for Her what they have done for the State. You repair the Church, for whose defence they fought: and you are no less distinguished by the virtues that make men Saints, than they have been by those that make Hero's.</p>
+            <p>'Tis a Right, my Lord, by the consent of all done you, and we wonder as much, at
+<pb facs="tcp:48624:3"/>the modesty you keep in a dignity so eminent as the Episcopal Function, and that uniform and irreprehensible conduct the Apostle requires in a Bishop, that appears in all your actions.</p>
+            <p>'Tis also the judgment of the best enligh<g ref="char:EOLhyphen"/>tened Monarch in the World, and His Maje<g ref="char:EOLhyphen"/>sty having made you Dean of His Royal Chap<g ref="char:EOLhyphen"/>pel, and keeping you always by His Sacred Person, shews the high esteem he has for you. He was willing that the Court you had in<g ref="char:EOLhyphen"/>structed by your Learned Sermons, should be edified also by your example, and that, that elevation which so many times discovers the faults of others, might cause your great parts to shine the better.</p>
+            <p>'Tis for this same reason, my Lord, I take the freedom to present your Honour with this Discourse, I dare hope you will receive it, with that goodness you have shewn me, and which ingages me my whole Life to be with a profound respect,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <lb/>
+               <signed>
+                  <hi>Your Lordships most humble,<lb/> Most obedient, and<lb/> Most obliged Servant,</hi>
+                  <lb/> De LƲZANCY.</signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:48624:4"/>
+            <p>
+               <hi>The Abominations of the Church of</hi> Rome, <hi>dis<g ref="char:EOLhyphen"/>covered in a Recantation-Sermon, lately Preached in the</hi> French <hi>Church of the</hi> Savoy; <hi>whereunto are added many curious Particulars of the Practices of the</hi> Papists <hi>beyond the Seas. By</hi> Franc. De La Motte, <hi>late Preacher of the Order of</hi> Carmelites, <hi>newly converted to the Church of</hi> England. <hi>Translated into</hi> English, <hi>Sold by</hi> Moses Pitt, <hi>at the</hi> Angel <hi>over against the little North-door of St.</hi> Pauls, 1675. <hi>Where you may likewise have the same in</hi> French, <hi>as it was Preached.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:48624:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>St. JOHN, Chap. 8. v. 32.</hi>
+                  </bibl>
+                  <p>Ye shall know the truth, and the truth shall make you free.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Appear in this Pulpit, Brethren, to perform the greatest and noblest act of my Life. I come to pay a publick Homage to Truth, and for ever dedicate unto it, that knowledge and freedome I have received from it.</p>
+            <p>When men are overcome by others, and either by strength of Discourse, or power of Arms, are forced to yield; the acknowledge<g ref="char:EOLhyphen"/>ment of their defeat is grievous to them, and they lessen, as much as they can, the Glory of their Enemies: But when truth has subdued them, they are willing all the World should take notice of it; and instead of looking upon their being conquered as an unhappiness, they account all those that are not subdued by it,
+<pb n="2" facs="tcp:48624:5"/>extreamly miserable. Thus the Apostle is not ashamed of his blindness and his chains. He would have all the World know, that he perse<g ref="char:EOLhyphen"/>cuted the Church; and as if his own Con<g ref="char:EOLhyphen"/>fession was insufficient, the Holy Ghost has men<g ref="char:EOLhyphen"/>tioned in the Acts of the Apostles, the Scales which fell from his Eyes;
+<note place="margin">
+                  <hi>Act.</hi> 9.18.</note> to the end, that he who glories, might glory in the Lord, and that this picture of Humane weakness,
+<note place="margin">1 <hi>Cor.</hi> 1.31.</note> might serve to the exalting the Power and Glory of the Almighty.</p>
+            <p>I speak it here therefore openly. I was Born in the <hi>Romish</hi> Church, I have studied her Do<g ref="char:EOLhyphen"/>ctrin, I have been prepossessed with her Opini<g ref="char:EOLhyphen"/>ons,
+<note place="margin">
+                  <hi>Gal.</hi> 1.14.</note> and have had no small Zeal for the Traditions of my Ancestors. But I say at the same time, and I am come hither to declare it, that that same Voice, which sounded in the Ears of the Apostle, has also sounded in mine, and that the same Grace has touched my Soul: That Jesus Christ has applyed to my Eyes the blessed Un<g ref="char:EOLhyphen"/>ction of his Word,
+<note place="margin">
+                  <hi>John</hi> 9.11.</note> as heretofore to those of the man that was born Blind, (of which the Gos<g ref="char:EOLhyphen"/>pel speaks so excellently) and that I am come, and have washed them, and that now I have received my Sight.</p>
+            <p>I acknowledge, Brethren, that I feel a great pleasure within me, in making this publick declaration; for besides that in so doing, I wit<g ref="char:EOLhyphen"/>ness my Faith to you, I also know the sweet disposition of your Souls. You have upon Earth
+<pb n="3" facs="tcp:48624:5"/>a due sence of God's Mercies,
+<note place="margin">
+                  <hi>Luk.</hi> 15.17.</note> as the Angels have in Heaven: You rejoice no less at the conversion of Sinners, than at the perseverance of Saints: and you return thanks unto the Father of Mer<g ref="char:EOLhyphen"/>cies, and the God of all consolation, when he augments the fruits of your righteousness.</p>
+            <p>'Tis to the increasing of this Holy joy which fills your hearts, that I purpose to set out in this Discourse the Reasons that brought me to this change; They are included in these words, <hi>ye shall know the truth.</hi>
+            </p>
+            <p>I sought after this Truth with all the dili<g ref="char:EOLhyphen"/>gence I could. I begged of God he would open the Eyes of my Heart: For it is through the Eyes of our Heart we must see the Truths of Sal<g ref="char:EOLhyphen"/>vation; for those of the Mind are never able to bring us to that height of clearness which is ne<g ref="char:EOLhyphen"/>cessary for us.</p>
+            <p>It must be received as an undoubted principle, that Truth is found in the <hi>Christian</hi> Religion, and no where else. Nature, says St. <hi>Austin,</hi>
+               <note place="margin">
+                  <hi>Augustin. in Joan. tract.</hi> 13.</note> has proclaimed, 'twill set you free, but has not done it; The Law has proclaimed, I will set you free, but it could only promise that freedom, and could not give it: Philosophy it self, and Paga<g ref="char:EOLhyphen"/>nism have proclaimed, I will set you free, but this great benefit was reserved for the Grace and Preaching of the Gospel. Now <hi>Christian</hi> Reli<g ref="char:EOLhyphen"/>gion is divided in the Western parts of the World, into two contrary Societies, the <hi>Romish,</hi> and the <hi>Protestant.</hi> Both say, <hi>I will set you free;</hi>
+               <pb n="4" facs="tcp:48624:6"/>Both agree in their general Principles; Both are dispersed through vast Kingdoms; Both have able Defenders: but they differ in some parti<g ref="char:EOLhyphen"/>cular points, and each shuts against the other the gates of Heaven. One stands indicted for adding, the other for diminishing.</p>
+            <p>Nevertheless after an exact and disinterressed inquisition, every one must be forced to confess, that 'tis in vain the <hi>Romish</hi> Church says, <hi>I will set you free;</hi> since that Truth is not received by her, by which we are set at liberty. This proposition seems strange, that a Church, which speaks of nothing more than of Truth, should be unac<g ref="char:EOLhyphen"/>quainted with it; that an assembly of Bishops, of Doctors, of Men raised up to high digrees in the World, that a Society maintained by all the means humane Wisdome can invent, should be without the true Light; and instead of being free, be captive under thousands of errors; notwithstanding the wonderful propensity all men have to Truth; notwithstanding the in<g ref="char:EOLhyphen"/>quiry all <hi>Christians</hi> make after it, in a thing so essential, and of so high concernment as our Salvation, and after so many conferences, dis<g ref="char:EOLhyphen"/>putes; and writings.</p>
+            <p>But this wonder will cease, if we consider that the <hi>Romish</hi> Church has ever brought two invin<g ref="char:EOLhyphen"/>cible obstacles to the Truth. The one, in seeking it where it is not to be found, and not seeking it where it is to be found; The other, in mixing of foreign Opinions with the Truths, she could
+<pb n="5" facs="tcp:48624:6"/>not but know. These two things will be made appear to you, in both the parts of my Discourse. And to obtain your attention the better, I shall speak without heat against the Church I have left, and abstain from drawing before you the hateful picture of her disorders. Private mens manners have no relation at all to the Faith. Truth should be defended with reasons and not with railings.</p>
+            <p>St. <hi>Paul</hi> bids us avoid all contention, and it would be against his Spirit, which is that of the Religion I now embrace, not to keep to the strictest rules of Modesty and Christian charity.</p>
+            <div n="1" type="part">
+               <head>THE FIRST PART.</head>
+               <p>Let us begin then, Brethren, with the first of these things, to evince to you, that the <hi>Roman</hi> Church has not known the Truth, because she has not sought it there where it is to be found, and has sought it where it is not to be found.</p>
+               <p>The Holy Scripture is the only Fountain of all Truths necessary for Salvation: It includes all within it self, and is that Treasure, out of which the Man of God takes all things new and old: 'Tis the foundation and rule of our Salvation: It entirely comprehends all the Words of God, who having in the former times spoken by the Patriarks and Prophets, has at last spoken in the fulness of times by his own Son, whom He appointed the Heir of all things, by whom also He made the Worlds.</p>
+               <pb n="6" facs="tcp:48624:7"/>
+               <p> But how great soever and unchangeable the testimony of the Lord is in it self, the <hi>Roman</hi> Church has not received it as such; she has sought after other assurances, and other founda<g ref="char:EOLhyphen"/>tions for her salvation, than the Word of God, and as if this Divine Word had need of the testimony of men, she has joyned the authority of Tradition with that of the Scripture. To colour this (which upon the first view must ap<g ref="char:EOLhyphen"/>pear odious to all men) it has been found neces<g ref="char:EOLhyphen"/>sary to give to the first that weight that the other has of it self, and pretend that Tradition is not less the Word of God than the Scripture, with this difference only, that the last is writ<g ref="char:EOLhyphen"/>ten, and the first trusted to the memory of the Pastors of the Church, who from age to age have transmitted it to their successors.</p>
+               <p>Therefore we must here examin the Reasons that moved the <hi>Roman</hi> Church to this; and this Question is of such importance, that its resolution would make the agreement in all the rest easie. The most considerable are the following:</p>
+               <p>The first is, That the Holy Scripture has no Authority of it self, but stands in need of another Authority for its determination. The second, That it is obscure in it self, and has need of another light to discover it. The third, That though it had all the authority and clearness necessary, yet it is insufficient of it self, and wants another voice to declare unto us what it does not declare.</p>
+               <p>Let us see then if the Holy Scripture has suffi<g ref="char:EOLhyphen"/>cient
+<pb n="7" facs="tcp:48624:7"/>Authority to be received, clearness enough to be understood, and comprehensive enough to exclude all other means.</p>
+               <p>When I speak, Brethren, of the Authority of the Holy Scripture, I mean a certain Character, of Majesty, Holiness, Truth, and Excellency, which cloaths it from the beginning to the end, that causeth us to perceive those things in it, that are not to be found in any other Book besides this of Life and Salvation, and perswades us at the same time of its Authority, without the help of any other testimony.</p>
+               <p>Its Authors were Prophets and Apostles, equally inspired by God; never was any thing observed in their life, that could bring them under the suspition of any lye or corruption; it was always consonant to the holiness of their writings. They saw with their eyes, they felt with their hands, and heard with their ears, what they have taught us of the Word of Life. They were neither esteemed great by their birth, nor distinguished by their employments. God has chosen neither the Nobles nor Wisemen of the world, <hi>but he has chosen the weak things of the world, to confound the things which are mighty;</hi> and instead of employing Orators and Consuls (as says St. <hi>Austin</hi>) he made use of the poorest sort of people; that his Word might be received for it self, and not for the greatness and eloquence of men. These sacred Authors never acted upon the account of interest or reputation; they were af<g ref="char:EOLhyphen"/>flicted,
+<pb n="8" facs="tcp:48624:8"/>afflicted, they were stoned, they were sawed asun<g ref="char:EOLhyphen"/>der. And as the world was unworthy of them, so they renounced all its pomp. Their fiercest ene<g ref="char:EOLhyphen"/>mies have born witness in all times to the things they preached.</p>
+               <p>Which things are either deep mysteries, and incomprehensible by all the strength of human reason; or wonderful miracles, which no less a<g ref="char:EOLhyphen"/>stonish than the mysteries themselves; or histories fill'd up with variety of circumstances; or weighty truths, which represent the life, the conduct, the conversation, and passions of men.</p>
+               <p>Their way of writing, answers to admiration the matter they handle: <hi>Never men spake after that manner.</hi> There is an unimitable sweetness, together with a Majesty, in their Discourses; and to use the Apostles expression, <hi>their word is a word quick and powerful, more sharp and piercing than any two-edged sword.</hi>
+               </p>
+               <p>But these Characters of Truth, visible all a<g ref="char:EOLhyphen"/>long in the Scripture, will perswade us entire<g ref="char:EOLhyphen"/>ly, if we joyn to so many outward circumstances, the inward assurance of the Holy Ghost.</p>
+               <p>Which inward assurance is absolutely necessa<g ref="char:EOLhyphen"/>ry, either by reason of the darkness sin has spread over our mind, or by reason of the weakness of our nature, that of it self can do nothing.</p>
+               <p>Jesus Christ has told us of this necessity in these words, joyning to His own Authority that of the Old Testament: <hi>No man can come to me, unless the Father that sent me draw him: 'Tis writ<g ref="char:EOLhyphen"/>ten
+<pb n="9" facs="tcp:48624:8"/>in the Prophets, they shall be all taught of God: Whosoever has heard of the Father, and learned, cometh to me.</hi>
+                  <note place="margin">1 <hi>Cor.</hi> 12.</note>
+                  <hi>No man</hi> (saith the Apostle) <hi>can say that Jesus is the Lord, but by the Holy Ghost. God has revealed these things to us by his Spirit,</hi>
+                  <note place="margin">1 <hi>Cor.</hi> 2.</note> (says he in another place) <hi>for the Spirit searches all things, yea the deep things of God; but the natural man receiveth not the things of the Spirit of God, for they are foolishness unto him; neither can he know them, because they are spiritually discerned.</hi> We should write out all the Epistles of St. <hi>Paul,</hi> if we would alledge all the places that prove this Truth; but from these we may infer several con<g ref="char:EOLhyphen"/>sequences of great importance.</p>
+               <p n="1">1. That all those which see, do see by the Spirit of God. 2. That without that Holy Spirit, the Scripture is wrapt up in a cloud, which no authority of man can break. 3. That this Spirit is no private Spirit, that is in any man of himself, but an universal one, spred through all the Saints, which God imparts to whom he pleases, when he pleases, as he pleases, and is never to be gotten by our own strength; which made the Prophet cry out, <hi>Lord open thou mine eyes, that I may see the wondrous things of thy Law.</hi>
+               </p>
+               <p>The manner in which this Spirit moves in us is invisible. We are certain of his motion,
+<note place="margin">
+                     <hi>Rom.</hi> 9.</note>
+                  <hi>for all those that are the children of God, are led by the Spirit of God; and he that hath not His Spirit,</hi>
+                  <note place="margin">
+                     <hi>Rom.</hi> 6.</note>
+                  <hi>is none of His.</hi> But we cannot perceive the manner
+<pb n="10" facs="tcp:48624:9"/>of it; He does not speak by articulate sounds and set syllables, to tell us, this is true, and that false; but He enters the bottom of our heart, pierces our thoughts, and perswades us to what<g ref="char:EOLhyphen"/>ever He proposes, though never so seemingly opposite, not only to our own apprehensions, but to those also of all the world.</p>
+               <p>Therefore Christ has a voice, called eminently by him <hi>his own voice,</hi> which his sheep alone do hear;
+<note place="margin">
+                     <hi>John</hi> 10. 1 <hi>John</hi> 2.</note>
+                  <hi>My sheep,</hi> says he, <hi>hear my voice. The same anointing teaches you all things,</hi> says St. <hi>John.</hi> When this voice speaks, all human voices hold their peace; man submits himself to God, who is instructing him Himself; his own thoughts va<g ref="char:EOLhyphen"/>nish away, as the shinings of the night do before those of the day.</p>
+               <p>If then the outward characters of this Divine Word, if the inward assurance of the Holy Ghost, make up the authority and certainty of the Holy Scripture, to what purpose should one admit Tradition, that must needs overthrow it? For this Tradition is no more, than the common agreement of some men, assuring us they are Trustees of an unwritten Word of God. But no human assurance can be the object of our Faith: the Faith of Christians must be grounded upon an eternal and infallible testimony; we re<g ref="char:EOLhyphen"/>ceive what God reveals unto us, only because these qualities are in Him; He is the same at all times, He can never deceive, nor be deceived, and He accompanies His Word with the same
+<pb n="11" facs="tcp:48624:9"/>beams of light that are always round about Him, by which we know that it is from Him. The testimony of men has none of these things, 'tis liable to change and errour, it carries every where the character of that weakness and deceit, which is natural to it, and our Faith cannot be infallible upon so shaking a foundation.</p>
+               <p>Is our Faith of another nature than that which the Apostles did preach? That could not be grounded upon Tradition, since there was no Tradition yet extant: And must we say, that that man has no Faith, who has received it by reading only the Scripture, without ever hearing a word of the authority and testimony of the Church.</p>
+               <p>What Pope, what Council, what Assembly of Fathers, has such divine marks for their au<g ref="char:EOLhyphen"/>thority as the Scriptures? Are they as much to be valued for the holiness of their Doctrine, the sublimity of their Stile, the greatness of their Miracles, the Life of their Apostles, the Suffe<g ref="char:EOLhyphen"/>rings of their Martyrs, the fulfilling of their Prophecies, and the testimony of their very E<g ref="char:EOLhyphen"/>nemies?</p>
+               <p>It will be to no purpose to say, that indeed the Scripture is certain in it self, but that in re<g ref="char:EOLhyphen"/>lation to us it has no authority, unless we be assured by the Church, that it is the Scripture, and that same Church offers it to us as the Ob<g ref="char:EOLhyphen"/>ject of our Faith. That is to say, it is certain as to its Doctrine, but it is uncertain what books
+<pb n="12" facs="tcp:48624:10"/>include this Doctrine, and the Church must tell us what are these books, that we may receive them.</p>
+               <p>But, Brethren, there is nothing more known than the Scripture, and nothing more unknown than the Church; every one agrees concerning the true Scriptures, but no body agrees concer<g ref="char:EOLhyphen"/>ning the Church. The <hi>Armenians, Ethiopians, Romans,</hi> and <hi>Protestants</hi> agree, almost about all the Canonical Books, they all receive them with the same veneration: But none of these agree about the Church; and all of them with<g ref="char:EOLhyphen"/>out exception, pretend as much as the <hi>Romans</hi> to be a part of it.</p>
+               <p>Have not the Apostles relyed more upon the testimony of the Scripture, than on their own? St.
+<note place="margin">2. <hi>Pet.</hi> 1.</note>
+                  <hi>Peter</hi> having assured the new Saints, that he himself had heard the Eternal Father declaring Jesus Christ to be his Son, does he not send them back to the Prophets, which he tells them to be surer than all that he could say? Does not Jesus Christ seem to have taught them this by his Ex<g ref="char:EOLhyphen"/>ample? St. <hi>John Baptist</hi> having born witness of him, does he not tell them plainly, that he has a testimony far greater than that of <hi>John</hi> the Baptist;
+<note place="margin">
+                     <hi>Joan.</hi> 5.</note> his Miracles; the word of his Father, and the voice of the Scriptures? In a word, are not all the words of Councils and Fathers tryed by the rule of Scripture? Are the deci<g ref="char:EOLhyphen"/>sions of those Councils, and thoughts of those Fathers, more Sacred and Divine than those of
+<pb n="13" facs="tcp:48624:10"/>St. <hi>Paul:</hi>
+                  <note place="margin">
+                     <hi>Act.</hi> 19.</note> yet the Saints at <hi>Berea</hi> are commended in the <hi>Acts,</hi> for trying if the Preaching of this Apostle was according to Scripture.</p>
+               <p>But how should the Scripture take its autho<g ref="char:EOLhyphen"/>rity from the Church, if the Church her self has all hers from the Scripture. 'Tis thereby she knows her self to be the true Church. 'Tis by it the Fathers laboured to bring the Hereticks into her Bosome. 'Tis from that St.
+<note place="margin">Aug. ad Par.</note>
+                  <hi>Austin</hi> de<g ref="char:EOLhyphen"/>sires the Donatists to prove they were the true Church: And was not this conduct very just? since three hundred years had passed, before ever the Church thought upon framing a Canon of the Books of the Scripture.
+<note place="margin">Conc. Load. ca. de Ser.</note> The <hi>Laodicean</hi> Council is the first that marked which they were: The first and third Council of <hi>Carthage,</hi>
+                  <note place="margin">
+                     <hi>Conc. Cor.</hi> 1. <hi>c. a.</hi> 3. <hi>c.</hi> 19. <hi>Deer.</hi> 1. <hi>sect.</hi> 3.</note> the Popes <hi>Innocent</hi> and <hi>Gelasius,</hi> have done the same, thinking it enough to shew the number of them, without pretending to give them any authority.</p>
+               <p>But if the Scripture has its Authority from it self, it has also its clearness from it self.
+<note place="margin">
+                     <hi>Psal.</hi> 19.</note> The Testimonies of the Lord are pure, enlightning the Eyes, says the Prophet: they spread all over our Souls, the Beams they are filled with; and as the Light of the Sun fills the Eyes of our Body at our opening them; so this heavenly Light, fills the eyes of our Heart, when the Grace of the Holy Ghost opens them. 'Tis St. <hi>Peter</hi>'s sence,
+<note place="margin">2 <hi>Pet. c.</hi> 1.</note> who compares the word of the Prophets to a Light that shineth in a dark place,
+<pb n="14" facs="tcp:48624:11"/>until the day dawn, and the day Star arise in our Heart. 'Tis also St. <hi>Paul</hi>'s, who bids the Saints read his Epistles with great care,
+<note place="margin">
+                     <hi>Rom.</hi> 15.</note> and tells them, <hi>that whatsoever things were written afore time, were written for our learning.</hi>
+                  <note place="margin">
+                     <hi>Deut.</hi> 30.</note> 'Tis also <hi>Moses</hi>'s, who teaches us, that the Law of the Lord, is not in Heaven, that we may not say, How can we go up to Heaven? 'Tis not beyond the Sea, that we might not say, How can we go over the Sea? But the Word is very nigh unto us, in our Mouth and in our Heart. In a word, 'tis that of God himself,
+<note place="margin">
+                     <hi>Deut.</hi> 30.</note> who commands, that his Law be read not only to Kings, and Wise men, but to all <hi>Israel,</hi> to the poorest sort of People, to Women and Children, as not being hid from any, and free from that darkness the World fan<g ref="char:EOLhyphen"/>cies in it.</p>
+               <p>Not that I intend by this to oppose the Prea<g ref="char:EOLhyphen"/>ching of the Gospel, which is the most ordi<g ref="char:EOLhyphen"/>nary mean of Converting and enlightening Souls. Jesus Christ has established Ministers in the Church, to feed the People with sound and uncorrupted Doctrin.
+<note place="margin">
+                     <hi>Tit.</hi> 2.8.</note> We ought to hearken to them with great respect, and pay them all the honour that is due to them. Nay, 'tis dangerous to oppose the universal consent of Pastors: And this has drawn from St.
+<note place="margin">Aug. advers. Manich.</note>
+                  <hi>Austin</hi>'s mouth that fa<g ref="char:EOLhyphen"/>med saying so often used in Controversies; <hi>I should not believe the Gospel without the Authority of the Catholick Church.</hi>
+               </p>
+               <p>I do not intend to deny that there are things
+<pb n="15" facs="tcp:48624:11"/>in Scripture, which are not easily understood: St. <hi>Peter</hi> affirms it of some places in St.
+<note place="margin">2 <hi>Peter,</hi> 3.</note>
+                  <hi>Paul</hi>'s Epistles. Those difficulties have given colour to all Heresies, and by them it is, that the same Jesus Christ, who has been precious to some,
+<note place="margin">1 <hi>Peter,</hi> 2.8.</note> has been a Stone of stumbling, and a Rock of offence to others.</p>
+               <p>But I maintain, that these difficult places con<g ref="char:EOLhyphen"/>tain nothing essential to Salvation. That God (as St. <hi>Austin</hi> says excellently well) has left them there to bring down our Pride,
+<note place="margin">
+                     <hi>Aug. de civit. cap.</hi> 3. <hi>l.</hi> 12,</note> to enflame our desires, and make us earnestly pray him to open the Scripture to us, and such places that con<g ref="char:EOLhyphen"/>cern our Salvation,
+<note place="margin">
+                     <hi>Aug. de doct. Christ. cap.</hi> 6.</note> are explained by other pla<g ref="char:EOLhyphen"/>ces, so clear and perswading, that every one may understand them. Yes, Brethren, the Word of God brings in it a Light which none can take from it: So that this Divine Word made <hi>David</hi> more Learned than the Antients,
+<note place="margin">
+                     <hi>Psal.</hi> 119. <hi>Act.</hi> 13.</note> and more Prudent than his Enemies. So in the <hi>Acts, a Heathen believed through astonishment,</hi> or as another Version has it, <hi>through admiration of the Doctrine of the Lord.</hi> And you will find it fear and trembling, to be more pure and more shining than Gold, or precious Stones.</p>
+               <p>Nothing remains then for the entire over<g ref="char:EOLhyphen"/>throwing of Tradition, but to prove it use<g ref="char:EOLhyphen"/>less, and that the Scriptures include either in express words, or by consequences clear, easie, and sure, all that is necessary to Salvation. This
+<pb n="16" facs="tcp:48624:12"/>is taught by the great Apostle, in these terms, <hi>All Scripture is given by the inspiration of God,</hi>
+                  <note place="margin">2 <hi>Tim.</hi> 3.</note>
+                  <hi>and is profitable for doctrine, for reproof, for correction, for instruction in righteousness, that the man of God may be perfect, and throughly furnished unto all good works.</hi> If the man of God be thoroughly furni<g ref="char:EOLhyphen"/>shed unto all good works, if he be corrected when he fails, if he be instructed in what he is ignorant, if there be no Duty in the Christian Life in which he is not taught and thoroughly instructed; can one doubt of the sufficiency and fulness of the Scripture? For how can he be convinced by the Scripture, if it cannot satisfie his doubts? how can he be corrected, if it can<g ref="char:EOLhyphen"/>not shew him all his faults? how can he be in<g ref="char:EOLhyphen"/>structed, if it does not contain all that is neces<g ref="char:EOLhyphen"/>sary to his instruction? how can he be fitted unto all good works, if it is deficient in any thing.</p>
+               <p>'Tis to stop the pride of men, and to keep them to their only rule, that the same Apostle forbids us expresly to presume any thing beyond what is written;
+<note place="margin">1 <hi>Cor.</hi> 4.</note> from whence it may be con<g ref="char:EOLhyphen"/>cluded, either that all that is necessary is written, or that the Apostle intended to keep men from their salvation, in forbidding them to seek what was necessary towards it. This is a consequence to be abhorred by all Christians, as pernicious and damnable.</p>
+               <p>It would be easie to make out this by other places, that are no less clear to the same purpose, but time will not give leave to discuss them
+<pb n="17" facs="tcp:48624:12"/>exactly, it will be enough, Brethren, to omit nothing of moment against this Tradition, to prove that it can have no force, since it does not stand upon a firm and fixed Principle, the same in all Ages, to whom we might refer our selves, as to an immutable Judge.</p>
+               <p>If this unwritten Word of God hath been in<g ref="char:EOLhyphen"/>violable, if this Consent of the Fathers has been without exception, it must especially be so in the first Ages, when the memory of the Apostles was so fresh, when the Martyrs blood began to be shed so plenteously in defence of the Truth, and men learned more to suffer than to dispute; yet Tradition never appear so contrary to it self as then.</p>
+               <p>
+                  <hi>Papias,</hi> Bishop of <hi>Hierapolis,</hi> a man of the A<g ref="char:EOLhyphen"/>postle's times, has written five Books of the un<g ref="char:EOLhyphen"/>written Words of our Lord,
+<note place="margin">
+                     <hi>Euseb. lib.</hi> 3. <hi>cap. ult.</hi>
+                  </note> but <hi>Eusebius</hi> af<g ref="char:EOLhyphen"/>firms them to be full of Fables and Lies.</p>
+               <p>The Western Church differs from the Eastern in the time of keeping <hi>Easter;</hi>
+                  <note place="margin">
+                     <hi>Euseb. lib.</hi> 5. <hi>cap.</hi> 23.</note> the first will have it, that it ought to be kept at one time, accor<g ref="char:EOLhyphen"/>ding to the Tradition of St. <hi>Peter</hi> and St. <hi>Paul;</hi>
+                  <note place="margin">
+                     <hi>Socr. lib.</hi> 5. <hi>cap.</hi> 22.</note> the second will have it kept at another time, according to the Tradition of St. <hi>John</hi> and St. <hi>Philip.</hi>
+               </p>
+               <p>
+                  <hi>Tertullian, Basil,</hi> with many others,
+<note place="margin">
+                     <hi>Tert. lib. de corona mill. Basil. lib. de Sp. Sanct. Aug. Ep.</hi> 86. <hi>ad Casul.</hi>
+                  </note> main<g ref="char:EOLhyphen"/>tain, that the Apostles have set times apart for fasting and not fasting: St. <hi>Austin</hi> asserts they have not done it, affirming besides, that those disputes about the Traditions of the Apostles,
+<pb n="18" facs="tcp:48624:13"/>were fit to raise new questions, but not to re<g ref="char:EOLhyphen"/>solve them.</p>
+               <p>The Custom of giving the Eucharist to Chil<g ref="char:EOLhyphen"/>dren, has been received in the Church as neces<g ref="char:EOLhyphen"/>sary to their salvation,
+<note place="margin">
+                     <hi>Cypr. serm. de laps. Iunoc. epist. ad concil. Mil. Gelas. in ep. ad epist. in Picen. August. lib.</hi> 1. <hi>contra Jul. cap.</hi> 2.</note> being grounded upon the Tradition of many Ages, and received with<g ref="char:EOLhyphen"/>out opposition by all the world: St. <hi>Cyprian, Innocent</hi> the first, <hi>Gelasius,</hi> and St. <hi>Austin,</hi> assure us of it. This notwithstanding, that custom has been abrogated in the following Ages, and condemned by the Council of <hi>Trent.</hi>
+               </p>
+               <p>But to give more light and force to this con<g ref="char:EOLhyphen"/>sideration, I must tell you, that the Fathers had never that opinion of themselves, that <hi>Rome</hi> would have us believe of them. They always looked upon themselves as private Authors, who indeed had great lights, but were subject to er<g ref="char:EOLhyphen"/>rours, and did really err many times. So St. <hi>Am<g ref="char:EOLhyphen"/>brose,</hi> St. <hi>Austin,</hi> St. <hi>Justin, Tertullian, Theodoret,</hi> and <hi>Origen,</hi> believed that the Saints should not enjoy the sight of God before the Resurrection of the Dead. So many of the Ancients admitted of no material Creatures. We find many places in St. <hi>Anathanasius, Chrisostom, Origen,</hi> and <hi>Je<g ref="char:EOLhyphen"/>rome,</hi> forbidding all sorts of Oaths whatsoever. So according to what St. <hi>Jerome</hi> relates, in his Book of Illustrious Persons,
+<note place="margin">
+                     <hi>Aug. ep.</hi> 12. <hi>&amp; seq. P<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ct. de vita Christi. Euseb. l.</hi> 5. <hi>hist Eccl cap.</hi> 2. <hi>Cypr. epist.</hi>
+                  </note>
+                  <hi>Severus, Ireneus, Apollinaris, &amp;c.</hi> did believe Christ should come one day in his flesh, to reign with his Saints for some time upon earth. So St. <hi>Epiphanius</hi> opposed St. <hi>Chrisostom,</hi> St. <hi>Jerome</hi> opposed St. <hi>Austin, Po<g ref="char:EOLhyphen"/>licrates
+<pb n="19" facs="tcp:48624:13"/>Victor,</hi> St. <hi>Cyprian Stephen,</hi> to pass by thousands of other examples of this nature.</p>
+               <p>But the Popes and Councils will (it may be) have better luck, and that Tradition which wanders every where else, shall there shine as in her Throne; for if the Pope is infallible, if his Heart is a Temple never without the Holy Ghost, if he speaks by the force and power of God; though many times he be found subject to the passions and miseries of other men, there is no room for a further dispute. Again, if God rules all in the Council, and utters his Oracles by the Mouth of the Bishops that compose it, we must submit to its Decisions and its Decrees. But neither the one nor the other are infallible.</p>
+               <p>I will not instance, as to the Council, that to prove it infallible, they ought to give us those assurances which men are not able to give, con<g ref="char:EOLhyphen"/>cerning both the intention of the Legislators, and the canonical way of their meeting. I will neither speak of the Intrigues nor the Subtilties of the <hi>Roman</hi> Court. I will not instance, that we can find nothing almost uncorrupted of the first Ages, that the misery of the times, the ig<g ref="char:EOLhyphen"/>norance of men, the inundations of the <hi>Barba<g ref="char:EOLhyphen"/>rians,</hi> the ambition of Popes, have almost cor<g ref="char:EOLhyphen"/>rupted all. I will not say, that nothing is so hard, as the discerning of true Councils; that the Meeting at <hi>Rimini,</hi> and the second Council at <hi>Ephesus,</hi> pretend both to be no less Oecume<g ref="char:EOLhyphen"/>nical, than the first at <hi>Ephesus,</hi> and first at <hi>Nice;</hi>
+                  <pb n="20" facs="tcp:48624:14"/>that the <hi>Grecians</hi> do canonize their Councils, as well as the <hi>Romans.</hi>
+               </p>
+               <p>I will affirm only, that both Pope and Coun<g ref="char:EOLhyphen"/>cil are equally Enemies to their own Infallibility. The Pope pretends no Council ought to be re<g ref="char:EOLhyphen"/>ceived, if 'tis not called by his Summons, and confirmed by his Authority, though we find many universal ones, wherein he had no part at all.</p>
+               <p>Again, the Council pretends to the power of deposing Popes, and forcing them to give an account of their behaviour, many Popes having done it already; nay, they have proceeded even to the condemning them after their death, and anathematizing the Errours they held during their lives.
+<note place="margin">
+                     <hi>Conc. Constan. D<gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>gen. Act.</hi> 34. <hi>&amp; seq.</hi>
+                  </note> So the Council of <hi>Constantinople</hi> de<g ref="char:EOLhyphen"/>clared <hi>Honorius</hi> a <hi>Monothelite.</hi> So <hi>Boniface, Xystus, Marcellus,</hi> cleared themselves before Councils of what they were charged with. But without going higher, the Council of <hi>Constance</hi> did de<g ref="char:EOLhyphen"/>clare the Pope to be under the Council; though it be true, that that decision lasted but to the <hi>Lateran</hi> Council under <hi>Leo</hi> the tenth, it being then declared, that the Council was under the Pope.</p>
+               <p>'Tis evident, that either the Pope or the Coun<g ref="char:EOLhyphen"/>cil is mistaken, not only in one of the points of Tradition, but in the essential point thereof. The Council must be no more referred unto, since they contradict themselves so visibly and absurdly. The Pope also must be no more re<g ref="char:EOLhyphen"/>ferred unto, since the Council makes it self Judge
+<pb n="21" facs="tcp:48624:14"/>of his Authority and his Doctrine. Whither will they have us then, Brethren, to go in quest of this unwritten word? Here we might en<g ref="char:EOLhyphen"/>large upon the pretended Infallibility of Popes; upon the means by which their authority is grown so high; upon the dominion they are so willing to usurpe over Souls, though it belongs to none but to him who purchased it by his Death and Blood. We might mention the quar<g ref="char:EOLhyphen"/>rel of the two Apostles, that of <hi>Policrates</hi> with <hi>Victor,</hi> and that of <hi>Cyprian</hi> with <hi>Steven.</hi> We might give an account of the falls of <hi>Tiberius, Honorius,</hi> and <hi>Felix;</hi> we might recount all the violent intrusions, the false Revelations, the Spirit of Blood and War, which appeared all along in the <hi>Alexanders</hi> and <hi>Julius</hi>'s, we might in this, hear what has been told us by the Au<g ref="char:EOLhyphen"/>thors of the <hi>Romish</hi> Church, that were most commendable for their Holyness and Doctrin.</p>
+               <p>In a word, without searching into the first ages, we should hearken unto a Pope, who be<g ref="char:EOLhyphen"/>ing consulted upon an essential point of St. <hi>Au<g ref="char:EOLhyphen"/>stin</hi>'s Doctrin, freed himself of that trouble, saying with a more infallible certainty than that they pretend to, <hi>I understand it not, I am no Di<g ref="char:EOLhyphen"/>vine.</hi> How can one be so, after he has forsaken the Fountain of true Divinity, the Holy Scrip<g ref="char:EOLhyphen"/>ture; or rather, how can one avoid being ex<g ref="char:EOLhyphen"/>posed to all the errors I shall speak of, in this my second part.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="22" facs="tcp:48624:15"/>
+               <head>The SECOND PART.</head>
+               <p>Those Errors are so numerous, and of so ma<g ref="char:EOLhyphen"/>ny sorts, that the Church may very well cry out with <hi>David, Lord, why are those that persecute me so much increased?</hi>
+                  <note place="margin">Aug. in Isa.</note> For, Brethren, the Church is as much persecuted by Errors, as by her Ene<g ref="char:EOLhyphen"/>mies, and as she has nothing more precious than Truth, so she fears the loss of nothing, more than of that.</p>
+               <p>But to regulate in some measure, things with<g ref="char:EOLhyphen"/>out Order, we may say in general, that they all have Christ for their object, and that from the first Error which tramples upon his Word, and substitutes human traditions by little and little in its place, sprung all those other Errors that defile his Body. For the <hi>Romish</hi> Church oppo<g ref="char:EOLhyphen"/>sing the Death of Jesus Christ with the Sacrifice of the Mass, does not rest there; but she must also oppose his Presence in Heaven with the Sacrament of the Altar, she must oppose the infinite satisfaction with which this adored Lord has blotted out our Sins; with her Doctrin of Purgatory and Indulgences; his Divine and Holy quality of Mediator, with her Invocation of Saints; the Adoration in Spirit and in Truth, which he came to establish, with her Worship<g ref="char:EOLhyphen"/>ing of Images, and many more outward pra<g ref="char:EOLhyphen"/>ctices of ill directed Piety, together with thou<g ref="char:EOLhyphen"/>sands of Superstitious Ceremonies, that have
+<pb n="23" facs="tcp:48624:15"/>nothing of the Primitive Zeal and the Primitive Discipline of the Saints. Behold, Brethren, these are the consequences of this Tradition, and the Rocks on which those who forsake the Scriptures, shipwrack themselves. Lot us say a word of every one of them, and that the rather, to shew that we did not pass them without con<g ref="char:EOLhyphen"/>sidering them, than to sound their depth.</p>
+               <p>'Tis very well, they call the Eucharist, an Incomprehensible Mystery. To defend it, we must renounce both Sence and natural Reason, depart from Scripture, and embrace plain con<g ref="char:EOLhyphen"/>tradictions.</p>
+               <p>I know it, Brethren, the <hi>Romish</hi> Church for<g ref="char:EOLhyphen"/>bids us to consult our Sences, and requires only a blind Faith. But why is the Testimony of our Sences to be admitted in all other Mysteries, and not in this? God submitted all the Figures of the Old Testament to the Testimony of the Sen<g ref="char:EOLhyphen"/>ces. His Manna, his Tabernacle,
+<note place="margin">
+                     <hi>Ex.</hi> 10, 11, 12.</note> and the brazen Serpent, were things that could be seen and felt.</p>
+               <p>The Sences were not mistaken in the muta<g ref="char:EOLhyphen"/>tions of <hi>Moses</hi>'s Rod into a Serpent,
+<note place="margin">
+                     <hi>Deut.</hi> 8.3.</note>
+                  <note place="margin">
+                     <hi>Num.</hi> 27.8.</note> of the Water of <hi>Nilus</hi> into Blood, and in the other Miracles of this Leader of God's People.
+<note place="margin">
+                     <hi>Psal.</hi> 105.29.</note> Jesus Christ submitted the Flesh he put on, the Sacra<g ref="char:EOLhyphen"/>ments he Instituted, the Words he spoke,
+<note place="margin">
+                     <hi>Num.</hi> 27.</note> the Actions he did to the Testimony of the Sences.
+<note place="margin">
+                     <hi>Act.</hi> 1.</note> He would have the Hands of an unbeliever, and the Eyes of his Disciples to be witnesses of his Resurrection and glorious ascension.
+<note place="margin">
+                     <hi>Nat.</hi> 28.</note> His Apo<g ref="char:EOLhyphen"/>stles
+<pb n="24" facs="tcp:48624:16"/>began their Preaching with the Authority of Sences, We declare unto you that which we have seen,
+<note place="margin">1 <hi>John,</hi> 1.</note> which our Hands have handled, of the word of life. But in this new Mistery they will have us to see, feel, and taste, but so, that our Eyes, our Hands, and our Taste are de<g ref="char:EOLhyphen"/>ceived; and that we do not see, taste, and feel, that which we think we see, taste, and feel. With the same injustice that they take away our Sences, they forbid us also the use of our Reason in this Mistery. They will not have us see im<g ref="char:EOLhyphen"/>possibilities and contradictions. They silence it, at the same time that they attempt upon its most uncontroverted Principles. 'Tis true, Reason must not be set equal with Faith; for besides that it is of an inferior Order, Sin has covered it with darkness, and reduced it to a deplorable condition. But though it be darkned, it is not not extinguished. That natural light we have through Reason, is as much from God, as the Divine Light we have through Faith. Jesus Christ raises us to sublime apprehensions, but never subverts the Order and various constitution he placed things in. And at the same time that he layes down before us the things which are above us, he shews us the connexion they have, with those we know.
+<note place="margin">
+                     <hi>Rom.</hi> 1.21. <hi>Act.</hi> 17.</note> So we see the invinsible things of God, by the things that are made. So St. <hi>Paul</hi> did strengthen with natural Reasons the Sermon he made to the <hi>Athenians;</hi> and the Fathers after him, do use a manner of arguing,
+<pb n="25" facs="tcp:48624:16"/>which they take from the natural order of things, to prove the most Divine Mysteries. But what can we say of a Mystery overthrowing all these Principles? setting the same Body in a thousand different places, making it to exist after the manner of Spirits, bringing forth fruits out of a cause no more in being, keeping up and holding firm accidents without their subjects, dividing a Body without dividing it, destroying it without corrupting it; and setting it open to all profanations and indignities imaginable, without the least interesting His rest or glory whose Body it is.</p>
+               <p>'Tis in vain to pretend, that the Scripture, which is the supreme Reason of Christians, sus<g ref="char:EOLhyphen"/>pends our Reason; if what Jesus Christ says of His Body is understood in the litteral sense, all that He says of Himself must also be thus under<g ref="char:EOLhyphen"/>stood, and by this we lay our selves open to in<g ref="char:EOLhyphen"/>finite absurdities. We must believe Him a Lion, a Stone, a Door, and leaving that wonderful way he made use of, to discover unto us the various effects of his Mercifulness by those Di<g ref="char:EOLhyphen"/>vine Metaphors, take up a killing letter, which cannot but destroy us.</p>
+               <p>The Sacrifice of the Mass being the Product of Transubstantiation, it lies under the same difficulties.
+<note place="margin">
+                     <hi>Heb.</hi> 10.</note>
+                  <hi>We are sanctified through the offering up of the body of Jesus Christ, once for all,</hi> says the Apostle: <hi>This man after he had offered one sacrifice for sins forever, sate down on the right hand of God.</hi>
+                  <pb n="26" facs="tcp:48624:17"/>To what purpose then is this shadow of a repea<g ref="char:EOLhyphen"/>ted Sacrifice? To what purpose this Victim they offer without shedding blood, and which is con<g ref="char:EOLhyphen"/>sumed without dying? Thou hast offered thy self once, O Lord! at the time of thy suffering upon the infamous Cross; thou offerest thy self every day more really and truely; that is to say, the Virtue of thy first Oblation continues yet, and the Voice with which thou didst cry for us is heard yet, and will be heard until the day of thy Kingdom and Glory.</p>
+               <p>This Satisfaction of Jesus Christ, so full and ample, gives occasion to speak about Indul<g ref="char:EOLhyphen"/>gencies.</p>
+               <p>A man must needs be the most indulgent per<g ref="char:EOLhyphen"/>son in the world to these Indulgences, not to picture out both their Authors and Promulgators with all the Colours they deserve. But the Ma<g ref="char:EOLhyphen"/>jesty and Holiness of the Place I am in, allows me only to say, that never Doctrine was more uncapable of being defended; the <hi>Roman</hi> Divines themselves for the most part do not conceive it, and they that have found the way to live by it, and feed their avarice with it, publish surprising things of it. They give the Pope inexhaustible Treasures, and make his Reign a Reign of all Ages. A Soul in the depth of all corruption may buy the freedom of sinning without fear of punishment. But leaving these corrupted Doctors, whom God hath given over to a repro<g ref="char:EOLhyphen"/>bate sense, and to ignominious passions, let us
+<pb n="27" facs="tcp:48624:17"/>hear what the best and wisest of them do say about it. Their Doctrine makes more shew, but it is as weak.</p>
+               <p>Indulgences according to them are nothing else, than a relaxation of the Penance, enjoyned Sinners by the Canons of the Church, for the Martyrs sake; and are never granted, as the Popes say themselves, but to those that are truly converted; and as St. <hi>Cyprian</hi> and the Fathers speak, to those who ask, who pray, who are actually under the Yoke of Penance; according to this Principle, which is the only one they have to colour over their Indulgences; What will become of that Authority, by virtue of which the Pope alone takes upon himself to grant them? Will not the meanest Pastors have the same power? what then shall become of those unexhaustible treasures which are shared among the Living and the Dead.</p>
+               <p>But to overthrow this quite, it will suffice to say, that the Fathers by Indulgences, never un<g ref="char:EOLhyphen"/>derstood any thing, besides a shortening of the time Sinners were to be seperated from the Church, to which they were admitted again, upon the change of Life, and the plenty of their Tears. To what purpose are Indulgences gran<g ref="char:EOLhyphen"/>ted? when we are truely Converted, when we pray, ask, and labour; and after that Jesus Christ has changed us, through the fulness of his Grace, and our Hearts that were before of
+<pb n="28" facs="tcp:48624:18"/>Stone, are become hearts of Flesh, are not our Sins forgiven? If they are not forgiven us, we are not Converted. God looks upon none in his Anger, but those he has not changed, and after he has changed them, their former Sins are never again imputed to them; he becomes un<g ref="char:EOLhyphen"/>to them a God of Mercy and Bounty, and looks only upon the present condition he has set them in. But this Indulgence, says the <hi>Romish</hi> Church, is granted to them, if they pray, ask, and labour. Now either this Indulgence frees them from praying, asking, and labouring; or it does not. If it does not free them, Why is it called Indulgence? and if it does free them from it, what will become of the Lord's com<g ref="char:EOLhyphen"/>mandment,
+<note place="margin">
+                     <hi>Thess.</hi> 5.10.</note>
+                  <hi>to pray always?</hi> What will become of the Precept of the Apostle, to do whatsoever we do,
+<note place="margin">1 <hi>Cor.</hi> 10.</note> to the Glory of Him, by whom we do all things.</p>
+               <p>Let us pass from their Indulgences, and enter into their imaginary spaces, I mean their Pur<g ref="char:EOLhyphen"/>gatory. This is that wherein the <hi>Romish</hi> Church shews her Eloquence most. Souls are there de<g ref="char:EOLhyphen"/>scribed in pools of Fire and Brimstone, and in bitterness, beyond all imagination. A picture is drawn of them equally terrible and pityful; and that the Living may gain, by the help they give the Dead, a thousand Inventions are found out for relieving those Languishing Souls.</p>
+               <p>But not to lose more time in relating them; upon what place of Scripture; nay, upon what
+<pb n="29" facs="tcp:48624:18"/>Principle of Tradition is this Doctrin grounded, what rational foundation have they found out to maintain it. O! ye that are so bold as to judge Men, after that God himself has judged them, and that carry your thoughts into the depth of His Thoughts; tell us, pray, where you find so many miseries, and so many remedies for them. The place that makes most for their pur<g ref="char:EOLhyphen"/>pose here, is that of the 12<seg rend="sup">th</seg> of St. <hi>Matthew,</hi> where Jesus Christ speaks of Sins, that are not forgiven neither in this World, neither in the World to come; and being not forgiven in Hea<g ref="char:EOLhyphen"/>ven, since no vile thing enters there, nor in Hell, since the punishment there is for ever, they conclude their must be a third place, and con<g ref="char:EOLhyphen"/>sequently, a Purgatory. But besides, that this consequence is forced, none of the Fathers have thus understood it, they all agree, that Jesus Christ meant by it only to teach us the heinous<g ref="char:EOLhyphen"/>ness of some Sins, which no torments neither of this World, neither of the World to come can punish sufficiently.</p>
+               <p>Do we not see in a hundred places of Scrip<g ref="char:EOLhyphen"/>ture, that Jesus Christ has obtained for us a perfect Redemption, that he has blotted out our Sins, and wash'd them with his Blood. If this Redemption is perfect, if none of our Debts remain to be paid, why do they fancy a new Expiation, a new Redemption, a new place wherein God punishes Sins, that are no longer in being, or must continue for ever.</p>
+               <pb n="30" facs="tcp:48624:19"/>
+               <p> But the <hi>Romish</hi> Church is not contented, to dwell upon Earth, and destroy our Sacrifices here below, to go down into Hell, and prepare us new sufferings there. She must get up to Heaven, and raise us there new intercessors. She will not only have us hear Dead men com<g ref="char:EOLhyphen"/>plaining, but she will have us make our adresses to Saints, who do not hear us.</p>
+               <p>The Invocation of Angels and Saints is no less injurious to God, than it is impossible in it self. I am very well satisfied, Brethren, that we ought to honour the Saints, and admire those great men,
+<note place="margin">1 <hi>Cor.</hi> 10.3.</note>
+                  <hi>who being in the flesh,</hi> as the Apostle speaks, <hi>did not warr after the flesh.</hi> We ought to study their lives, that we may imitate them, and (if I may mix a prophane Story with so Holy a subject,) as the glory of <hi>Miltiades</hi> kept <hi>The<g ref="char:EOLhyphen"/>mistocles</hi> from sleep; so the <hi>Idea</hi> of their great actions should keep us awake, and raise us out of that sluggishness in which we are plunged. But there is great difference, between imitating of them, and Invocating them. The Scripture which speaks of the one, forbids the other, in not Commanding it. Its silence in this case is an invincible proof against it. They cannot shew us one place that authorises this practice. On the contrary, it teaches every where, that we have but one Mediator, one Advocate, one Redeemer; that he knows our miseries by him<g ref="char:EOLhyphen"/>self,
+<note place="margin">
+                     <hi>Heb.</hi> 8. 1 <hi>Cor.</hi> 15.</note> and cures them by himself; that the Saints are through his grace all that they are; that they
+<pb n="31" facs="tcp:48624:19"/>know, as St. <hi>Austin</hi> speaks excellently well, that God crowning their merits crowns only His own Graces; and so far are they from receiving the Vows and Incense offer'd them, that they are ready to say with the Angel, before whom St. <hi>John</hi> fell down, <hi>See thou do it not,</hi>
+                  <note place="margin">
+                     <hi>Revel.</hi> 22.</note>
+                  <hi>for I am thy fellow-servant, worship God.</hi>
+               </p>
+               <p>'Tis true I mistake my self in saying, that the Scripture does not speak of the Invocation of Saints. It speaks thereof, and speaks in plain terms too: <hi>Let no man beguile you,</hi>
+                  <note place="margin">
+                     <hi>Col.</hi> 2.18.</note> says the A<g ref="char:EOLhyphen"/>postle, <hi>of your reward, in a voluntary humility and worshipping of Angels.</hi> The Apostle uses the word <hi>beguile,</hi> or seduce, according to the vulgar acceptation of it. And in earnest, is there any seduction or beguiling, equal to that, which makes Creatures partakers of the Authority of God; which attributes unto them His immen<g ref="char:EOLhyphen"/>sity, making them hear all those who pray unto them from all the parts of the world; and His <hi>searching the heart and reigns,</hi>
+                  <note place="margin">
+                     <hi>Psal.</hi> 7.11.</note> (which He so often claims to Himself alone) making them know the very thoughts and wishes of those who pray to them; which offers Sacrifiees to Saints, builds Altars to them, and sings Hymns to their praise?</p>
+               <p>The first Christians were so far from this false Worship, that nothing is to be seen of it in the three first Ages of the Church. Yet in those days, <hi>Tertullian, Cyprian, Clement, Arnobius,</hi> and <hi>Origen,</hi> did flourish; but they all abhorred it. So that some Hereticks, who prayed unto An<g ref="char:EOLhyphen"/>gels,
+<pb n="32" facs="tcp:48624:20"/>appearing then,
+<note place="margin">Theedor. Cone. Laod.</note> they were condemned by the <hi>Laodicean</hi> Council in an express Canon. What would that Council say, if they saw how far the <hi>Roman</hi> Church goes now? if they should hear her speaking to Angels and Saints in her Prayers, as she does to Christ, asking them to free her from evils, to lead her in the way to Heaven, to blot out her sins, to enlighten her, and to defend her?</p>
+               <p>But the <hi>Roman</hi> Church is yet gone further, from a subtil Idolatry to a gross one, I mean from the Invocation of Saints to the Worship of their Images and Relicks. She adores graven Images, sets them upon her Altars, offers Incense, and burns Lights to them. This is no exaggeration, nor any other Figure of Rhetorick. <hi>We believe without any doubt,</hi> says the second Council of <hi>Nice,</hi> (which is the seventh General) <hi>that the Images of Jesus Christ, of the Blessed Virgin, of the Angels and Saints, ought to be adored, and let him be</hi> Anathema <hi>who doubts of the adoration due to them.</hi>
+               </p>
+               <p>
+                  <hi>Let him who does not adore the Image of Jesus Christ,</hi>
+                  <note place="margin">
+                     <hi>Act.</hi> 5.</note> says the Council of <hi>Constantinople,</hi> (which is the eighth General) <hi>not see his face in his second coming. By the same reason we adore the Images of his Mother, of the Angels and Saints</hi> The Coun<g ref="char:EOLhyphen"/>cil of <hi>Trent</hi> says the same thing.
+<note place="margin">
+                     <hi>Conc. Tr. s.</hi> 23.</note>
+                  <hi>Thomas Aqui<g ref="char:EOLhyphen"/>nas,</hi> and the most Learned Schoolmen, will have it, that the Cross ought to be adored with the Worship of <hi>Latria,</hi> that is to say, with a Sove<g ref="char:EOLhyphen"/>raign
+<pb n="33" facs="tcp:48624:20"/>Worship. <hi>Bellarmin, Suarez,</hi> and others,
+<note place="margin">
+                     <hi>Bellarm. lib. de Eccl. Triumph. cap.</hi> 21. <hi>Suar. in</hi> 3. <hi>cap.</hi> 3. <hi>q. sect.</hi> 4.</note> will have it, that the Images are worthy of some veneration in themselves. The zeal of the Ido<g ref="char:EOLhyphen"/>laters never went so far, they never adored the Image in the Image, which <hi>Celsus</hi> proves well, as <hi>Origen</hi> cites him. They never acknowledged in their Gods a power absolute, uniform, and subsisting in them all, but only a power derived from the Soveraign of the Gods.</p>
+               <p>It would be superfluous to shew, how much the Scripture condemns this method; God for<g ref="char:EOLhyphen"/>bids it expresly in the Decalogue;
+<note place="margin">
+                     <hi>Exod.</hi> 20. 2 <hi>Kings</hi> 20.</note> and one can<g ref="char:EOLhyphen"/>not say, that it is only a legal prohibition, with<g ref="char:EOLhyphen"/>out intimating, that the Commandment which forbids Idolatry is of the same nature. The re<g ref="char:EOLhyphen"/>proaches which God casts on <hi>Jeroboam</hi> for ha<g ref="char:EOLhyphen"/>ving made graven Images, are eminently re<g ref="char:EOLhyphen"/>markable. <hi>Ezekias</hi> breaks in pieces the brazen Serpent, though it had been the only hope of the People of God. In fine, can one speak more strongly than the Apostle, when he reproaches these Idolaters, they having <hi>changed the glory of the incorruptible God, into an Image made like to corruptible man.</hi>
+               </p>
+               <p>These are, Brethren, the most considerable Errours of the <hi>Roman</hi> Church, which spring all from that first Principle, which I laid down even now, their leaving the Scripture to embrace human Traditions. I renounce them forever, and cast my self into your Arms, to approve by my words, but more by the course of my
+<pb n="34" facs="tcp:48624:21"/>life, this renunciation sincere and unfeigned.</p>
+               <p>I am bound to bear this testimony, Brethren, That the Church of <hi>England</hi> has things in Her, able to draw to Her all those that have the least taste of the ancient Discipline of the Church, and of Her true Doctrine.</p>
+               <p>Must we not admire the Government of these Bishops,
+<note place="margin">1 <hi>Pet.</hi> 1.</note> that are the Guide of their Flocks, who do not domineer in the House of God, but justifie by their Example what they teach by their Doctrine,
+<note place="margin">1 <hi>Cor.</hi> 9.</note> and make themselves all things to all, that they might gain all the world to Christ?</p>
+               <p>Must we not be sensible of the zeal, vigilance, and learning of these Ministers, who instruct their Sheep without ceasing, and feed them with the Holy Word of Jesus Christ, according to what the Apostles have taught us. And though I know that in saying this, I intrench upon the modesty of those who govern the Church wherein I speak, yet I feel my self bound in duty to acknowledge, that God has given this Church Ministers that are powerful in works and in speech, whose zeal is mixed with deep learning, and whose learning is quickned with a great zeal, and who leave us in a doubt, as St. <hi>Basil</hi> said of St. <hi>Gregory,</hi> which is the more remarkable, the holiness of their Lives, or the purity of their Doctrine.</p>
+               <p>Let the <hi>Romish</hi> Church compare her Worship and her Ceremonies with yours. You have cast out whatever savoured of <hi>Judaism.</hi> You have
+<pb n="35" facs="tcp:48624:21"/>renounced that outward formality and pomp which charms the Eyes, but at the same time dries up the Heart. You have adher'd to the two great things Jesus Christ has bequeathed to the World, <hi>his Word, and Prayer.</hi> You compile this last, you joyn your Hearts and Voices in your Sacred Singing of Psalms; and the first is distributed among you, in a way, easie, solid, and able not only to feed you, but to defend you.</p>
+               <p>Do not wonder then, if I am no more what you once were, and if I am now what you are; for I hope I may obtain your leave, to tell you,
+<note place="margin">
+                     <hi>Ephes.</hi> 5.</note> that you were darkness, but now you are light in the Lord; that heretofore you were entangle in the Bonds of the <hi>Romish</hi> Church, but now you sing, the Bonds are loosed, and we are made free. Heretofore you did groan under the burthen of human traditions, and now you feed your selves only with Divine Truths.</p>
+               <p>But at the same time, Brethren, that you rejoice for the grace God has given me, you must humble your selves for that which you have received from him; your Life must be confor<g ref="char:EOLhyphen"/>mable unto the Faith you have received. You must set your heart above the deceits and illu<g ref="char:EOLhyphen"/>sions of this present Life. You must die to all things that perish, and aspire after that which does not perish. If Truth free you, the less you have of Truth, the less freedome you will have; The less you shall live the life you ought
+<pb n="36" facs="tcp:48624:22"/>to live, the less part will you have in the com<g ref="char:EOLhyphen"/>bat of the Saints, and by consequence, in the rewards God has promised them.</p>
+               <p>
+                  <hi>To Him, Father, Son, and Holy Ghost, be all Honour and Glory,</hi> &amp;c.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
